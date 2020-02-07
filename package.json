@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fountainhead-core": "ZSLP/fountainhead-core",
+    "fountainhead-core": "ZSLP/fountainhead-core#6670f507e102979ba53b554ed82c265d23bb963c",
     "cors": "^2.8.5",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
